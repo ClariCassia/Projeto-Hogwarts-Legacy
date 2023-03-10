@@ -1,0 +1,72 @@
+@media (max-width: 1280px) {
+    body {
+        padding: 0 40px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .informacoes .logo {
+        max-width: 450px;
+        margin-bottom: 60px;
+    }
+
+    .informacoes .descricao {
+        width: 60%;
+    }
+}
+
+@media (max-width: 600px) {
+    .informacoes .logo {
+        max-width: 325px;
+        margin-bottom: 40px;
+    }
+
+    .informacoes .descricao {
+        font-size: 18px;
+        line-height: 35px;
+        color: var(--cor-principal);
+    }
+}
+
+@media (max-width: 576px) {
+
+    .container {
+        min-height: 70vh;
+        gap: 30px;
+    }
+
+    .informacoes .logo {
+        max-width: 350px;
+        margin-top: 70px;
+
+    }
+
+    .informacoes .descricao {
+        width: 100%;
+    }
+
+    .menu-lateral {
+        position: static;
+        min-height: auto;
+        width: 100%;
+
+    }
+
+    .menu-lateral ul {
+        flex-direction: row;
+        margin-top: 50%;
+    }
+
+    .fa-brands {
+        color: var(--cor-principal);
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 375px) {
+    .informacoes .logo {
+        max-width: 300px;
+        margin-top: 10px;
+    }
+}
