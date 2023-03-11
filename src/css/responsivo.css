@@ -31,6 +31,10 @@
 
 @media (max-width: 576px) {
 
+    body {
+		padding: 40px;
+	}
+
     .container {
         min-height: 70vh;
         gap: 30px;
@@ -38,7 +42,7 @@
 
     .informacoes .logo {
         max-width: 350px;
-        margin-top: 70px;
+        margin-top: 20px;
 
     }
 
@@ -55,12 +59,12 @@
 
     .menu-lateral ul {
         flex-direction: row;
-        margin-top: 50%;
+        margin-top: 20%;
     }
 
     .fa-brands {
         color: var(--cor-principal);
-        font-size: 40px;
+        font-size: 30px;
     }
 }
 
