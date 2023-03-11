@@ -21,7 +21,7 @@ Esse projeto se trata de uma página de apresentação do Hogwarts Legacy, onde 
 
 <br>
 
-<img src="src/imagens/gif.-desktop.gif"alt= "gif tela desktop">
+<img src="src/imagens/gif.-desktop.gif" alt="gif tela desktop">
 <br>
 <br>
 
