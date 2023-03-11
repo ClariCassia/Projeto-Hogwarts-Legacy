@@ -30,14 +30,14 @@ Esse projeto se trata de uma página de apresentação do Hogwarts Legacy, onde 
 <br>
 <br>
 
-  <img src="src/imagens/gif.-tablet.gif"alt= "gif tela tablet">
+<img src="src/imagens/gif.-tablet.gif" alt="gif tela tablet">
 
 ## Layout mobile
 
 <br>
 <br>
 
-<img src="src/imagens/gif.-mobile.gif"alt="gif tela mobile">
+<img src="src/imagens/gif.-mobile.gif" alt="gif tela-mobile">
 
 ## Tecnologias utilizadas
 
