@@ -57,13 +57,13 @@ main::after {
     color: var(--cor-principal);
 }
 
-.btn-carrosel {
+.botoes-carrosel {
     display: flex;
     justify-content: center;
     gap: 20px;
 }
 
-.btn-carrosel .btn {
+.botoes-carrosel .btn {
     width: 12px;
     height: 12px;
     border-radius: 50%;
@@ -72,7 +72,7 @@ main::after {
     cursor: pointer;
 }
 
-.btn-carrosel .btn-selecionado {
+.botoes-carrosel .selecionado {
     background-color: var(--cor-btn-selecionado);
 }
 
