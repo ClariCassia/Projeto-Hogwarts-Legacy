@@ -3,7 +3,7 @@
 ## Sumário
 
 - [Sobre o projeto](#sobreoprojeto)
-- [Layout web](#layout-web)
+- [Layout  desktop](#layout-web)
 - [Layout tablet](#layout-tablet)
 - [Layout mobile](#layout-mobile)
 
